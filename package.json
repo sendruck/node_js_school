@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/sendruck/node_js_school#readme",
   "dependencies": {
+    "celebrate": "^15.0.0",
     "cors": "^2.8.5",
     "dotenv": "^14.2.0",
     "errorhandler": "^1.5.1",
