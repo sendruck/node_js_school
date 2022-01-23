@@ -1,4 +1,4 @@
-import sequelize from '../sequelize';
+import sequelize from '../models/sequelize';
 
 export default async () => {
 	console.log(`Checking database connection...`);
